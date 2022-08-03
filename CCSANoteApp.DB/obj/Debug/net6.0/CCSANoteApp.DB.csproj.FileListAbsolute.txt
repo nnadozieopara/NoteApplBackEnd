@@ -1,0 +1,15 @@
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.DB.deps.json
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.DB.dll
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.DB.pdb
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.AssemblyInfo.cs
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.csproj.CopyComplete
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.dll
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\refint\CCSANoteApp.DB.dll
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.pdb
+C:\Users\hp\Downloads\CCSA_Web\CCSA_Web\CCSANoteApp.DB\obj\Debug\net6.0\ref\CCSANoteApp.DB.dll
